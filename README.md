@@ -4,7 +4,7 @@ Bem-vindo ao **Relógio**, um aplicativo simples e direto para visualizar as hor
 
 ## Como Usar
 
-1. **Acesse o Site:** [Relógio](https://seu-link-aqui)
+1. **Acesse o Site:** [Relógio](https://https-allan.github.io/relogio/)
 2. **Observe as Horas:** Em um formato limpo e fácil de ler.
 3. **Sem Complicações:** Basta acessar e aproveitar!
 
